@@ -3,10 +3,10 @@
 ## [Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency](https://arxiv.org/abs/2208.08407) (MICCAI 2022)(Data generation code)
 By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen), Chi Xu, Ioannis Gkouzionis, Kunal Vyas, David Tuch, Stamatia Giannarou, Daniel S. Elson
 
-![image](https://github.com/br0202/M3Depth/blob/master/vis/quan_results.png "example")
+![image](https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png "example")
 
 ### Contents
-1. [How to use](#how to use)
+1. [Howtouse](#How to use)
 1. [Data Structure](#Data Structure)
 2. [Depth Map Generation](#Depth Map Generation)
 3. [Notes](#notes)
