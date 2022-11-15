@@ -3,8 +3,8 @@
 ## [Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency](https://arxiv.org/abs/2208.08407) (MICCAI 2022)(Data generation code)
 By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen), Chi Xu, Ioannis Gkouzionis, Kunal Vyas, David Tuch, Stamatia Giannarou, Daniel S. Elson
 
-<img align="left" width="425" src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png">
-<img align="right" width="425" src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-r.png">
+<img width="360" src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png">
+<img width="360" src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-r.png">
 
 
 ### Contents
@@ -24,7 +24,7 @@ By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](http
 
 
 ### Data Structure
-'''
+'''bash
 Dataset/
 ├─ L/
 │  ├─ round_n/
