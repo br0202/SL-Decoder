@@ -13,7 +13,7 @@ By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](http
 2. [Data Structure](#DataStructure)
 3. [Depth Map Generation](#DepthMapGeneration)
 4. [Notes](#notes)
-5. [Citing](#citing)
+
 
 ### How to use
 
