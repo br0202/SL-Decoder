@@ -6,7 +6,10 @@ By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](http
 <img width="360" src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png">
 <img width="360" src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-r.png">
 
-![](https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png)  |  ![](https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-r.png)
+<p float="left">
+  <img src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png" width="360" />
+  <img src="https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-r.png" width="360" /> 
+</p>
 
 ### Contents
 1. [How to use](#Howtouse)
