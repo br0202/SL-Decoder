@@ -3,12 +3,12 @@
 ## [Self-Supervised Depth Estimation in Laparoscopic Image using 3D Geometric Consistency](https://arxiv.org/abs/2208.08407) (MICCAI 2022)(Data generation code)
 By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](https://www.csc.liv.ac.uk/~anguyen), Chi Xu, Ioannis Gkouzionis, Kunal Vyas, David Tuch, Stamatia Giannarou, Daniel S. Elson
 
-![image](https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png "example")
+![image](https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-l.png "example") ![image](https://github.com/br0202/SL-Decoder/blob/master/figure/10_1-r.png "example")
 
 ### Contents
-1. [Howtouse](#How to use)
-1. [Data Structure](#Data Structure)
-2. [Depth Map Generation](#Depth Map Generation)
+1. [How to use](#Howtouse)
+1. [Data Structure](#DataStructure)
+2. [Depth Map Generation](#DepthMapGeneration)
 3. [Notes](#notes)
 
 
@@ -21,7 +21,7 @@ By [Baoru Huang](https://baoru.netlify.app/), Jian-Qing Zheng, [Anh Nguyen](http
 5. Save the round folder to folder 'L' and folder 'R' for left and right side images. 
 
 
-### Data Structures
+### Data Structure
 
 Dataset/
 ├─ L/
